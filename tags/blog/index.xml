@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on MeiK&#39;s blog</title>
+    <link>http://localhost:1313/tags/blog/</link>
+    <description>Recent content in Blog on MeiK&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 26 Jul 2025 20:00:07 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Test Post: Exploring My New Blog</title>
+      <link>http://localhost:1313/post/first_blog/</link>
+      <pubDate>Sat, 26 Jul 2025 20:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/post/first_blog/</guid>
+      <description>This is a brief summary of my first test post. It should appear on the main blog list page. This text will NOT show up on the full post page, as it&amp;rsquo;s defined separately.</description>
+    </item>
+  </channel>
+</rss>
